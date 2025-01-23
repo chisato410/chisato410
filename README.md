@@ -1,4 +1,4 @@
-# Hello, I'm chisato410!
+# Hello, I'm chisato!
 
 Welcome to my GitHub profile! Here are some of my projects and interests.
 
