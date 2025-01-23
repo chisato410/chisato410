@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hello, I'm [Your Name]!
+
+Welcome to my GitHub profile! Here are some of my projects and interests.
 
 <!--
 **chisato410/chisato410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
