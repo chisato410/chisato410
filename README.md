@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
-https://github-stats-evirunurm.vercel.app/api/stats.js?username=【chisato410】
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317ml3aw5yvzqkxyip5c3cb6ya3i)
 
