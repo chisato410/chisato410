@@ -1,6 +1,6 @@
 [# Hello, I'm chisato!
 
-Welcome to my GitHub profile! Here are some of my projects and interests.](https://github-stats-evirunurm.vercel.app/api/stats.js?username=chisato410)
+Welcome to my GitHub profile! Here are some of my projects and interests.]
 
 <!--
 **chisato410/chisato410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
+https://github-stats-evirunurm.vercel.app/api/stats.js?username=【chisato410】
 
