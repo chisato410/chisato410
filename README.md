@@ -1,73 +1,67 @@
 <!-- chisato410 の GitHub プロフィール README -->
 
-# こんにちは、chisato410です！
+# chisato410
 
-フロントエンドエンジニア志望の専門学生です。
-
-コーディングが好きで、日々いろいろと試行錯誤しています！
+フロントエンドを中心に、心地よく・ちょっと楽しい体験をつくっています。  
+最近はThree.jsやReactでの表現に夢中です。
 
 ---
 
-## 🚀 使用経験のある技術
+## 💡 Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/microCMS-1E1E1E?style=flat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
 </p>
 
 ---
 
-## 🌱 学習中のこと
+## 📘 Learning
 
-- 🧩 React + TypeScript
-- ✨ Three.js を使ったインタラクティブな3D表現
-- 🛠️ Node.js / Express によるサーバーサイド開発
-- 📝 microCMS を使ったヘッドレスCMSの活用
+- React + TypeScript
+- Three.js（インタラクティブな3D表現）
+- microCMS + Headless CMS
+- Node.js / Express
 
 ---
 
-## 📈 GitHub ステータス
+## 📊 Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chisato410&theme=rose&show_icons=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisato410&layout=donut" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=chisato410&theme=graywhite&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chisato410&layout=compact&theme=graywhite" />
 </div>
 
 ---
 
-## 🏆 トロフィー
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=chisato410&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🎧 最近聞いた音楽（Spotify）
+## 🎧 Spotify
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=317ml3aw5yvzqkxyip5c3cb6ya3i)
 
 ---
 
-## 📌 おすすめプロジェクト
+## 📁 Works
 
-- 🎮 [YouTube メモプレイヤー](https://github.com/chisato410/your-project)  
-　YouTube動画にメモをつけながら視聴できるプレイヤー
+- [YouTube メモプレイヤー](https://github.com/chisato410/your-project)  
+　YouTubeにメモを残せる学習補助アプリ
 
-- 🧪 [Visualizer 実験](https://github.com/chisato410/your-project)  
-　円形・グラフ型のオーディオビジュアライザーを試作
-
-- 🌈 [Three.js のポップな世界](https://github.com/chisato410/your-project)  
-　色と光で遊ぶThree.jsデモ集
+- [Visualizer Demo](https://github.com/chisato410/your-project)  
+　音に合わせて動く、ミニマルなオーディオビジュアライザー
 
 ---
 
-## 📫 連絡先・SNSなど
+## 📫 Contact
 
 - GitHub: [@chisato410](https://github.com/chisato410)
-- blog: [ebichiri | Webデザインを学ぶ専門学生の学習記録](https://410hz.vivian.jp/blog_ebichiri_/)
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
+<!-- ご自身のSNSアカウントやZenn・ポートフォリオリンクがあれば追加してください -->
+
+---
+
+> **create with a little bit of fun.**  
+> 便利だけじゃない、少しの「面白さ」を。
