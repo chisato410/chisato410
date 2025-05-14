@@ -2,8 +2,8 @@
 
 # chisato410
 
-フロントエンドを中心に、心地よく・ちょっと楽しい体験をつくっています。  
-最近はThree.jsやReactでの表現に夢中です。
+フロントエンドエンジニア志望の専門学生です。 
+コーディングを楽しみながら日々勉強しています。
 
 ---
 
@@ -57,7 +57,7 @@
 ## 📫 Contact
 
 - GitHub: [@chisato410](https://github.com/chisato410)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- blog: [ebichiri | Webデザインを学ぶ専門学生の学習記録](https://410hz.vivian.jp/blog_ebichiri_/)
 
 <!-- ご自身のSNSアカウントやZenn・ポートフォリオリンクがあれば追加してください -->
 
