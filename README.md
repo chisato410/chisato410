@@ -1,14 +1,14 @@
-<!-- GitHub Profile README for chisato410 -->
+<!-- chisato410 の GitHub プロフィール README -->
 
-# 👋 Hi there, I'm chisato410!
+# 👋 こんにちは、chisato410です！
 
-I'm a creative developer passionate about building **fun, interactive, and visually engaging web experiences**.
+**フロントエンドエンジニア志望の専門学生です。
 
-I love experimenting with new tools, creating unique features, and bringing playful ideas to life through code.
+コーディングが好きで、日々いろいろと試行錯誤しています！
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 使用経験のある技術
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -24,16 +24,16 @@ I love experimenting with new tools, creating unique features, and bringing play
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 学習中のこと
 
 - 🧩 React + TypeScript
-- ✨ Three.js for interactive 3D visuals
-- 🛠️ Backend basics with Node.js and Express
-- 📝 Headless CMS with microCMS
+- ✨ Three.js を使ったインタラクティブな3D表現
+- 🛠️ Node.js / Express によるサーバーサイド開発
+- 📝 microCMS を使ったヘッドレスCMSの活用
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub ステータス
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=chisato410&theme=rose&show_icons=true" />
@@ -42,35 +42,32 @@ I love experimenting with new tools, creating unique features, and bringing play
 
 ---
 
-## 🏆 Trophy Case
+## 🏆 トロフィー
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=chisato410&theme=oldie)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🎧 Spotify – Recently Played
+## 🎧 最近聞いた音楽（Spotify）
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=317ml3aw5yvzqkxyip5c3cb6ya3i)
 
 ---
 
-## 📌 Featured Projects
+## 📌 おすすめプロジェクト
 
-- 🎮 [YouTube Memo Player](https://github.com/chisato410/your-project) — Add memo features to YouTube playback
-- 🧪 [Visualizer Experiments](https://github.com/chisato410/your-project) — Circle and graph-style audio visualizers
-- 🌈 [Three.js World](https://github.com/chisato410/your-project) — Pop & colorful 3D experiments
+- 🎮 [YouTube メモプレイヤー](https://github.com/chisato410/your-project)  
+　YouTube動画にメモをつけながら視聴できるプレイヤー
+
+- 🧪 [Visualizer 実験](https://github.com/chisato410/your-project)  
+　円形・グラフ型のオーディオビジュアライザーを試作
+
+- 🌈 [Three.js のポップな世界](https://github.com/chisato410/your-project)  
+　色と光で遊ぶThree.jsデモ集
 
 ---
 
-## 📫 Contact
-
-Feel free to reach out!
+## 📫 連絡先・SNSなど
 
 - GitHub: [@chisato410](https://github.com/chisato410)
-- X (旧Twitter): [@yourhandle](https://twitter.com/yourhandle) <!-- ←必要に応じて変更 -->
-- Blog: [Zenn](https://zenn.dev/) / [Qiita](https://qiita.com/) <!-- 任意で追加 -->
-
----
-
-> 🔮 *"Interesting beats convenient."*  
-> I believe that tech should be playful and surprising — not just practical.
+- blog: [ebichiri | Webデザインを学ぶ専門学生の学習記録](https://410hz.vivian.jp/blog_ebichiri_/)
