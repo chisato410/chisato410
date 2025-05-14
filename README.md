@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat&logo=three.js&logoColor=white" />
 </p>
 
@@ -29,7 +27,17 @@
 
 ---
 
-## 📊 Stats
+## 📁 Works
+
+- [YouTube メモプレイヤー](https://github.com/chisato410/yt-memo)  
+　YouTubeにメモを残せる学習補助アプリ
+
+- [Visualizer Demo](https://github.com/chisato410/OC)  
+　音に合わせて動く、ミニマルなオーディオビジュアライザー
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=chisato410&theme=graywhite&show_icons=true&hide_title=true" />
@@ -41,17 +49,6 @@
 ## 🎧 Spotify
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=317ml3aw5yvzqkxyip5c3cb6ya3i)
-
----
-
-## 📁 Works
-
-- [YouTube メモプレイヤー](https://github.com/chisato410/your-project)  
-　YouTubeにメモを残せる学習補助アプリ
-
-- [Visualizer Demo](https://github.com/chisato410/your-project)  
-　音に合わせて動く、ミニマルなオーディオビジュアライザー
-
 ---
 
 ## 📫 Contact
@@ -62,6 +59,15 @@
 <!-- ご自身のSNSアカウントやZenn・ポートフォリオリンクがあれば追加してください -->
 
 ---
+## 🌍 About me (EN)
 
-> **create with a little bit of fun.**  
-> 便利だけじゃない、少しの「面白さ」を。
+Hello, I’m **chisato410** — a front-end developer who enjoys creating simple and joyful user experiences.  
+Currently exploring creative interactions with **Three.js** and **React**.
+
+### 🛠️ Tech Stack  
+HTML / CSS / JavaScript / TypeScript / React / Three.js / Node.js / microCMS
+
+### 🎨 Projects  
+- **YouTube Memo Player**: Write learning notes while watching videos  
+- **Audio Visualizer**: Minimal and fun frequency-based visual experiments  
+- **3D Playground**: Colorful, interactive 3D worlds using Three.js  
