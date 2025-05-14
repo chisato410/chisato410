@@ -58,16 +58,3 @@
 
 <!-- ご自身のSNSアカウントやZenn・ポートフォリオリンクがあれば追加してください -->
 
----
-## 🌍 About me (EN)
-
-Hello, I’m **chisato410** — a front-end developer who enjoys creating simple and joyful user experiences.  
-Currently exploring creative interactions with **Three.js** and **React**.
-
-### 🛠️ Tech Stack  
-HTML / CSS / JavaScript / TypeScript / React / Three.js / Node.js / microCMS
-
-### 🎨 Projects  
-- **YouTube Memo Player**: Write learning notes while watching videos  
-- **Audio Visualizer**: Minimal and fun frequency-based visual experiments  
-- **3D Playground**: Colorful, interactive 3D worlds using Three.js  
