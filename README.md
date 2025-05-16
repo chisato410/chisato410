@@ -34,8 +34,8 @@
 - [YouTube メモプレイヤー](https://github.com/chisato410/yt-memo)  
 　YouTubeにメモを残せる学習補助アプリ
 
-- [Visualizer Demo](https://github.com/chisato410/OC)  
-　音に合わせて動く、ミニマルなオーディオビジュアライザー
+- [Bing Game](https://github.com/chisato410/Bingo-Game)  
+　授業内で作ったJavaScriptを活用したビンゴゲーム
 
 ---
 
